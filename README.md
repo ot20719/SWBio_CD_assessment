@@ -21,8 +21,8 @@ modules required for this script:
 - NumPy [documentation](https://numpy.org/install/)
 - matplotlib [documentation](https://matplotlib.org/stable/install/index.html)
 
-# to install these using conda: use the command in your environment 
+### to install these using conda: 
 conda install numpy 
 
-# to install these using pip: use the command in your environment
+### to install these using pip: 
 pip install numpy
