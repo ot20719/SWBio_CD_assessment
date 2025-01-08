@@ -20,7 +20,9 @@ This should produce a set of 4 plots:
 modules required for this script:
 - NumPy [documentation](https://numpy.org/install/)
 - matplotlib [documentation](https://matplotlib.org/stable/install/index.html)
-to install these using conda: use the command in your environment 
-    conda install numpy 
-to install these using pip: use the command in your environment
-    pip install numpy
+
+# to install these using conda: use the command in your environment 
+conda install numpy 
+
+# to install these using pip: use the command in your environment
+pip install numpy
